@@ -1,0 +1,21 @@
+		Font Viewer 1.0 Read Me.
+
+	This product can be used to preview installed and uninstalled fonts(*.ttf fonts only).Its two modes namely 	
+	1.Compare and 
+	2.Freesize 
+	helps to compare the fonts and to see the fonts in different sizes for better viewing respectively.
+
+	You can view the character map of any selected font in a separate form. By clicking on the cells of the character map you could form words and sentences easily, which can then be selected and copy pasted to the required place.
+
+	This sourcecode  is FREEWARE. Read the licence.txt file to know the exact details.
+
+	There are some short comings in this application. They are listed below.
+		1.You can preview only one uninstalled font at a time.
+		2.The character map displays only 256 characters even if the selected font is Unicode based.
+		3.There is no font install/uninstall feature.
+		4.There is no print option to make a contact sheet of the installed fonts.
+		5.And as this is not an optimized code there is still place for correcting/optimizing this code(logical and other types ).
+
+alexkcherian@rediffmail.com
+28-05-2004
+ 

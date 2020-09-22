@@ -1,0 +1,21 @@
+Myfontviewer 1.0
+
+Description:
+	preview all the installed/not installed fonts.
+
+controls used:
+	msflexgrid
+
+developement environment:
+	vb6 pro
+	windowsxp sp2
+	vb6sp5 runtime
+
+os compatibility:
+	windows all
+
+date:
+	 2004
+
+programmer:
+	alexkcherian@rediffmail.com	

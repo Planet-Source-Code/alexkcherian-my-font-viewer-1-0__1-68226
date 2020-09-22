@@ -1,0 +1,103 @@
+[Root]
+Most Recent Package=font viewer 1.0 beta
+
+
+[Package|font viewer 1.0 beta|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=F:\alvbprojects2004\mdifontviewer1\Package
+
+[Package|font viewer 1.0 beta|Configure DAO ISAMs]
+Applicable=No
+
+[Package|font viewer 1.0 beta|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|font viewer 1.0 beta|Files Found]
+
+[Package|font viewer 1.0 beta|Files Released]
+
+[Package|font viewer 1.0 beta|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\fm20.dll=
+
+[Package|font viewer 1.0 beta|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=
+
+[Package|font viewer 1.0 beta|Files Added]
+
+[Package|font viewer 1.0 beta|Files Removed]
+
+[Package|font viewer 1.0 beta|Files In Project]
+F:\alvbprojects2004\mdifontviewer1\exe\Font Viewer 1.0.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\Olepro32.dll=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=Yes
+C:\WINDOWS\SYSTEM\fm20.dll=Yes
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|font viewer 1.0 beta|Configure Registry Files]
+Applicable=No
+
+[Package|font viewer 1.0 beta|Configure Remote Servers]
+Applicable=No
+
+[Package|font viewer 1.0 beta|Install Locations]
+F:\alvbprojects2004\mdifontviewer1\exe\Font Viewer 1.0.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\Olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\fm20.dll=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|font viewer 1.0 beta|Configure Shared Files]
+Applicable=Yes
+F:\alvbprojects2004\mdifontviewer1\exe\Font Viewer 1.0.exe=No
+
+[Package|font viewer 1.0 beta|Distribution]
+Type=single
+Size=
+Title=Font Viewer 1.0 beta
+
+[Package|font viewer 1.0 beta|IconGroups]
+Group0=Font Viewer 1.0 beta
+PrivateGroup0=True
+Parent0=$(Programs)
+
+[Package|font viewer 1.0 beta|Font Viewer 1.0 beta]
+Icon1="Font Viewer 1.0.exe"
+Title1=Font Viewer 1.0 beta
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|font viewer 1.0 beta|Package]
+PackageFolder=F:\alvbprojects2004\mdifontviewer1\Package
+ProjectFolder=F:\alvbprojects2004\mdifontviewer1
+ServerSideCab=
+File1=F:\alvbprojects2004\mdifontviewer1\Package\setup.exe
+File2=F:\alvbprojects2004\mdifontviewer1\Package\Setup.Lst
+File3=F:\alvbprojects2004\mdifontviewer1\Package\Font Viewer 1.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
